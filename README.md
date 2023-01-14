@@ -4,13 +4,6 @@
 Junior Java Backend developer with more than 1,5 years of experience. I have excellent knowledge in backend development on Java.
 In general worked with monolitic, microservice arthitectures. Big part of my acitities is backend developing.
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=v3rmal13n&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=v3rmal13n&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/v3rmal13n/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=v3rmal13n&layout=compact"/></a>
-</p>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/v3rmal13n/">
