@@ -1,7 +1,7 @@
 # resume
 
 # Hi, I'm Galust Martirosyan 👋
-Junior Java Backend developer with more than 1,5 years of experience. I have excellent knowledge in backend development on Java.
+Junior Java Backend developer with more than 1 years of experience. I have excellent knowledge in backend development on Java.
 In general worked with monolitic, microservice arthitectures. Big part of my acitities is backend developing.
 
 
