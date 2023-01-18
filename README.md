@@ -23,6 +23,7 @@ In general worked with monolitic, microservice arthitectures. Big part of my aci
 *   I also know how to work with Docker, Kubernetes. 
 *   I know how to work with Git
 *   GitHub/GitLab/Gerrit/Bitbucket
+*   I develop microservice applications, I know Spring cloud
 
 ### My opensource projects
 
